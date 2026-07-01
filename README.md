@@ -112,20 +112,4 @@ HR-Analytics-PowerBI-Dashboard
 
 ---
 
-## 🚀 How to Use
-
-1. Download the repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Interact with filters and visualizations to explore HR insights.
-
----
-
-## 📸 Dashboard Screenshot
-
-Replace the placeholder below after uploading the image to the **Images** folder.
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
 
