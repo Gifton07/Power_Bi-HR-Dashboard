@@ -10,11 +10,9 @@ The dashboard provides a comprehensive overview of employee demographics, depart
 
 ## 📊 Dashboard Preview
 
-> **Add your dashboard screenshot here**
 
-```markdown
 ![HR Analytics Dashboard](Images/dashboard.png)
-```
+
 
 ---
 
